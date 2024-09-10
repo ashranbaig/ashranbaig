@@ -19,9 +19,7 @@ Designed and maintained CI/CD pipelines to streamline the deployment process.
 Automated various operational tasks to improve efficiency and reduce manual intervention.
 Ensured high availability and reliability of services through proactive monitoring and incident management.
 Collaborated with cross-functional teams to enhance system performance and security.
-📚 Open Source Contributions:
 
-I believe in the power of community and open-source. Here are some of my contributions:
 
 
 🌱 Currently Learning:
