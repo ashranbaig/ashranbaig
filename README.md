@@ -1,5 +1,38 @@
-<h1 align="center">Hi 👋, I'm Mirza Mohd Ashran Baig</h1>
-<h3 align="center">A passionate DevOps Engineer/SRE from India</h3>
+<h1 align="center">👋 Hello!, I'm Mirza Mohd Ashran Baig</h1>
+<h3 align="center">
+
+
+🔧 SRE/DevOps Engineer | 5 Years of Industry Experience
+
+Welcome to my GitHub profile! I am a passionate and dedicated Site Reliability Engineer (SRE) and DevOps professional with over 5 years of experience in the tech industry. My expertise lies in bridging the gap between development and operations to ensure seamless, reliable, and scalable software delivery.
+
+🌟 Core Competencies:
+Infrastructure as Code (IaC): Proficient in Terraform, Ansible, and CloudFormation.
+Cloud Platforms: Extensive experience with AWS, Azure, and Google Cloud Platform.
+CI/CD Pipelines: Skilled in Jenkins, GitLab CI, and GitHub Actions.
+Containerization & Orchestration: Expert in Docker and Kubernetes.
+Monitoring & Logging: Familiar with Prometheus, Grafana, ELK Stack, and Datadog.
+Automation & Scripting: Strong in Python, Bash, and Shell scripting.
+🚀 Professional Highlights:
+Successfully implemented and managed scalable infrastructure for high-traffic applications.
+Designed and maintained CI/CD pipelines to streamline the deployment process.
+Automated various operational tasks to improve efficiency and reduce manual intervention.
+Ensured high availability and reliability of services through proactive monitoring and incident management.
+Collaborated with cross-functional teams to enhance system performance and security.
+📚 Open Source Contributions:
+
+I believe in the power of community and open-source. Here are some of my contributions:
+
+
+🌱 Currently Learning:
+Advanced Kubernetes features and best practices.
+Exploring serverless architectures and their applications.
+Enhancing skills in security and compliance automation.
+
+
+Feel free to explore my repositories and projects. I'm always open to collaboration and discussions on innovative ideas. Let's build something amazing together!
+
+🔗 [Mirza Mohd Ashran Baig]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashranbaig&label=Profile%20views&color=0e75b6&style=flat" alt="ashranbaig" /> </p>
 
