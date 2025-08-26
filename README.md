@@ -1,31 +1,60 @@
-<h1 align="center">👋 Hello!, I'm Mirza Mohd Ashran Baig</h1>
+<h1 align="center"> Hello!, I'm Mirza Mohd Ashran Baig</h1>
 <h3 align="center">
 
+# Senior DevOps / Site Reliability Engineer | 5+ Years of Experience  
 
-🔧 SRE/DevOps Engineer | 5 Years of Industry Experience
+I am a results-driven Senior DevOps and Site Reliability Engineer with over five years of experience in automating infrastructure, designing scalable CI/CD pipelines, and ensuring system reliability.  
+My expertise spans cloud platforms, infrastructure as code, container orchestration, monitoring systems, and DevSecOps practices, enabling enterprises to achieve high availability and secure, scalable operations.  
 
-Welcome to my GitHub profile! I am a passionate and dedicated Site Reliability Engineer (SRE) and DevOps professional with over 5 years of experience in the tech industry. My expertise lies in bridging the gap between development and operations to ensure seamless, reliable, and scalable software delivery.
+---
 
-🌟 Core Competencies:
-Infrastructure as Code (IaC): Proficient in Terraform, Ansible, and CloudFormation.
-Cloud Platforms: Extensive experience with AWS, Azure, and Google Cloud Platform.
-CI/CD Pipelines: Skilled in Jenkins, GitLab CI, and GitHub Actions.
-Containerization & Orchestration: Expert in Docker and Kubernetes.
-Monitoring & Logging: Familiar with Prometheus, Grafana, ELK Stack, and Datadog.
-Automation & Scripting: Strong in Python, Bash, and Shell scripting.
-🚀 Professional Highlights:
-Successfully implemented and managed scalable infrastructure for high-traffic applications.
-Designed and maintained CI/CD pipelines to streamline the deployment process.
-Automated various operational tasks to improve efficiency and reduce manual intervention.
-Ensured high availability and reliability of services through proactive monitoring and incident management.
-Collaborated with cross-functional teams to enhance system performance and security.
+## Core Competencies  
+- Infrastructure as Code: Terraform, Bicep, ARM Templates, Ansible, CloudFormation  
+- Cloud Platforms: Microsoft Azure (IaaS, PaaS, Migrate), AWS, Google Cloud (GKE)  
+- CI/CD Engineering: Azure DevOps (YAML), Jenkins, GitLab CI, GitHub Actions  
+- Containers & Orchestration: Docker, Kubernetes (GKE, Helm)  
+- Monitoring & Logging: Prometheus, Grafana, ELK Stack, Azure Monitor, Google Cloud Monitoring  
+- Networking & Security: VNets, vWAN, ExpressRoute, NSGs, NVAs  
+- Automation & Scripting: Python, Bash, PowerShell  
 
+---
 
+## Professional Experience  
 
-🌱 Currently Learning:
-Advanced Kubernetes features and best practices.
-Exploring serverless architectures and their applications.
-Enhancing skills in security and compliance automation.
+**Hexaware Technologies (2024–Present) – Senior DevOps Engineer**  
+- Designed scalable data pipelines with SnapLogic and Snowflake.  
+- Automated deployments using Azure DevOps (YAML pipelines).  
+- Built reusable and secure Terraform modules for infrastructure provisioning.  
+- Ensured 99.95% uptime through proactive monitoring with Prometheus and Azure Monitor.  
+
+**Stovl / Eximietas Design (2023–2024) – Associate DevOps Engineer**  
+- Developed GitLab CI pipelines with integrated SAST and automation.  
+- Provisioned and deployed workloads on GKE using Terraform, Docker, and Helm.  
+- Implemented observability with Google Cloud Monitoring to track system health.  
+
+**KPMG Global Services (2022–2023) – Associate DevOps Consultant**  
+- Delivered IaC automation and pipeline workflows for supply chain platforms.  
+- Conducted Terraform and Azure DevOps training sessions for development teams.  
+
+**Mindtree (2020–2022) – DevOps Engineer / Site Reliability Engineer**  
+- Supported 24/7 production workloads with global SRE best practices.  
+- Enhanced pipeline reliability in Jenkins and Azure DevOps.  
+- Reduced incidents by 40% through proactive DevSecOps automation.  
+
+---
+
+## Certifications  
+- Microsoft Certified: DevOps Engineer Expert  
+- Microsoft Certified: Azure Fundamentals  
+- Google Professional: Cloud DevOps Engineer  
+
+---
+
+## Currently Exploring  
+- Advanced Kubernetes features and scaling strategies  
+- Serverless architectures for enterprise applications  
+- Security and compliance automation at scale  
+
 
 
 Feel free to explore my repositories and projects. I'm always open to collaboration and discussions on innovative ideas. Let's build something amazing together!
